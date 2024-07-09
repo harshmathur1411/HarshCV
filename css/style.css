@@ -15,4 +15,20 @@
 .top-header
 {
     display: flex;
+    align-items: center;
+}
+.my-info {
+    margin-left: 30px;
+}
+.my-info h1
+{
+    color: steelblue;
+}
+.my-info h3
+{
+    border-bottom: 1px solid #3E3E3E;
+}
+table
+{
+    border: 0;
 }
